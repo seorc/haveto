@@ -1,0 +1,15 @@
+h1 {
+	background-color: #199900;
+	color: white;
+	margin: 0px 0px 6px 0px;
+	text-align: center;
+	padding: 8px 0px;
+}
+
+div {
+	text-align: center;
+}
+
+li em {
+	color: #999;
+}

@@ -1,0 +1,40 @@
+{
+  "version": "1",
+  "name": "HaveTo!",
+  "launch_path": "/index.html",
+  "description": "You have important things to remember. Remember them when you HaveTo!",
+  "icons": {
+    "16": "/logo/ht16.png",
+    "32": "/logo/ht32.png",
+    "48": "/logo/ht48.png",
+    "60": "/logo/ht60.png",
+    "64": "/logo/ht64.png",
+    "90": "/logo/ht90.png",
+    "120": "/logo/ht120.png",
+    "128": "/logo/ht128.png"
+  },
+  "developer": {
+    "name": "Daniel Abraján"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+    "desktop-notification": {
+      "description": "To show notifications"
+    },
+    "geolocation": {
+      "description": "Marking out user location"
+    },
+    "alarms": {
+      "description": "Scheduling alarms"
+    }
+  },
+  "locales": {
+    "es": {
+      "name": "HaveTo!",
+      "description": "Tienes cosas importantes que recordar. Recuerdalas cuando tengas que hacerlo!"
+	}
+  }
+}
